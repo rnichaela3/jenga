@@ -1,7 +1,8 @@
-#*/Build
-*/Binaries
-*/DerivedDataCache
-*/Intermediate
-*/Saved
-*/Content/StarterContent
-*/.vs
+#*
+/Build
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Content/StarterContent
+/.vs
